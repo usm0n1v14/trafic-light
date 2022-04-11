@@ -1,0 +1,17 @@
+.red,
+.yellow,
+.green {
+  display: block;
+  margin: 0 auto;
+  width: 170px;
+  height: 150px;
+}
+
+.span {
+  width: 20px;
+  height: 170px;
+  display: block;
+  margin: 0 auto;
+  background-color: #efefef;
+  border: 1px solid black;
+}
